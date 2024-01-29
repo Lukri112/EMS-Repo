@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<launch>
+
+	<!-- Start the RobotController Node -->
+	<node name="RobotController" pkg="robots" type="RobotController" output="screen"/>
+
+	<!--                      -->
+</launch>
